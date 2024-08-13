@@ -1,6 +1,6 @@
 # Rocket-Flight-Simulation-V2
 
-2-DOF Rocket Flight Simulation in Matlab/Simulink including engine thrust, drag, lift and wind (external factors and more)
+2-DOF Rocket Flight Simulation in Matlab/Simulink including engine thrust, drag, lift and wind (external factors and more) In addition, all calculations were made by myself, no ready-made tools were used. 
 
 ---
 
