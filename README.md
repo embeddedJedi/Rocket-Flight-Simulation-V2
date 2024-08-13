@@ -9,3 +9,5 @@ After my old flight simulation, I improved myself a little more in this field an
 You can reach my old Rocket Flight Simulation [here](https://github.com/embeddedJedi/Basic_Rocket-Flight-Simulation/tree/main).
 
 `Note: There may still be some errors or omissions. I will continue to update and upload new projects as I continue my work.`
+
+[Atmosphere model](https://github.com/embeddedJedi/Atmosphere-Model-Simulink) used
